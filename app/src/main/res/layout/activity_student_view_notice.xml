@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:context=".StudentViewNotice"
+            android:paddingTop="10dp"
+            android:outlineProvider="none"
+            android:paddingBottom="20dp">
+
+            <TextView
+                android:id="@+id/notice_title_txt1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/noticetitle"
+                android:gravity="center"
+                android:text="My car"
+                android:textColor="@color/white"
+                android:textColorHighlight="@color/purple_500"
+                android:textSize="25dp" />
+
+            <ImageView
+                android:id="@+id/notice_image_single_view1"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:layout_below="@id/notice_title_txt1"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/altimg" />
+
+            <TextView
+                android:id="@+id/descript_title_text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/notice_image_single_view1"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="10dp"
+                android:text="Description : "
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/notice_descript_text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/descript_title_text1"
+                android:layout_marginBottom="20dp"
+                android:autoLink="web"
+                android:paddingLeft="10dp"
+                android:text="Here comes the description !feghtrhrthrthrthrthrthrthrthrthrthrthrthrthrhtdfgdfgdfgdfgdfgdfgdfgdgdgdgdgdfg"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+    </ScrollView>

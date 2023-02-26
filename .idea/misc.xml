@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_addphoto_background.xml" value="0.116" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_addphoto_foreground.xml" value="0.116" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1615" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml" value="0.116" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_baseline_contact_phone_24.xml" value="0.1615" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_baseline_signal_cellular_connected_no_internet_4_bar_24.xml" value="0.1805" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_baseline_signal_wifi_off_24.xml" value="0.1805" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/inpputsearch.xml" value="0.1645" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/inputsearch.xml" value="0.1645" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/noticetitle.xml" value="0.1805" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/drawable/outline.xml" value="0.1805" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout-land/activity_main.xml" value="0.19620811287477954" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout-land/activity_splash_screen.xml" value="0.19620811287477954" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout-land/singlerow.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_add_attendence.xml" value="0.264" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_add_notice.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_add_student.xml" value="0.2037164487267722" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_admin_check_payment_history.xml" value="0.13179347826086957" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_admin_check_paymentlist.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_admin_crud.xml" value="0.2" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_admin_login.xml" value="0.25" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_admin_main.xml" value="0.19130434782608696" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_admin_view_attendence.xml" value="0.2203125" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_attendance_main.xml" value="0.234375" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_attendence_crud.xml" value="0.234375" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_check_payment_history.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_delete_attendence.xml" value="0.215625" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_edit_attendence.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_login_options.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_notice_crud.xml" value="0.16326530612244897" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_pay_fees_page.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_login.xml" value="0.25" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_main.xml" value="0.2" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_notice.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_profile.xml" value="0.23529411764705882" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_profile_edit.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_reset_emailand_password.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_view_attendence.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_student_view_notice.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/activity_view_notice.xml" value="0.176" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/attendlayout.xml" value="0.2" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/check.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/check_internet_dialog.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/dialog.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/dialogcontent.xml" value="0.2" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/feehistory.xml" value="0.2" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/samplelayout.xml" value="0.153125" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/single_view_notice.xml" value="0.264" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/single_view_user.xml" value="0.1" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/layout/singlerow.xml" value="0.264" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/menu/searchmenu.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/ayush/AndroidStudioProjects/Tution_Management_System_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

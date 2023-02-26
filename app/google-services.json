@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972444956582",
+    "project_id": "tution-management-system-app",
+    "storage_bucket": "tution-management-system-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972444956582:android:a719abf99ce906e6b94167",
+        "android_client_info": {
+          "package_name": "com.example.tution_management_system_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972444956582-8lf3mo076tomppbj5upa488kcritqqe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDy1KUzq7_3Rs3TEVduxUP5tJXzUNkeIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972444956582-8lf3mo076tomppbj5upa488kcritqqe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

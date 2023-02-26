@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp"
+    android:background="@drawable/outline"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:outlineProvider="none"
+    android:paddingBottom="20dp">
+
+    <TextView
+        android:id="@+id/notice_titletxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/noticetitle"
+        android:gravity="center"
+        android:text="Title goes here"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/purple_500"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/notice_image_single_view"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_below="@id/notice_titletxt"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/altimg" />
+
+
+
+</RelativeLayout>

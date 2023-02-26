@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.tution_management_system_app">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_mainlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tution_Management_System_App"
+        tools:targetApi="31">
+        <activity
+            android:name=".Delete_Attendence"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_View_Attendence"
+            android:exported="false" />
+        <activity
+            android:name=".AttendanceMain"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Edit_Attendence"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Student_View_Attendence"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_Attendence"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Admin_Check_Payment_History"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StudentViewNotice"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StudentNotice"
+            android:exported="false" />
+        <activity
+            android:name=".ViewNotice"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Notice_Crud"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Check_Payment_History"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Pay_Fees_Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddNotice"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Student_Reset_EmailandPassword"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Student_Profile_Edit"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StudentProfile"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StudentMain"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Admin_Crud"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_Student"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AdminMain"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StudentLogin"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AdminLogin"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
